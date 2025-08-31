@@ -17,3 +17,5 @@ spec:
         image: 891612555058.dkr.ecr.us-east-1.amazonaws.com/board-game:latest
         ports:
         - containerPort: 8080
+      imagePullSecrets:
+      - name: board-game-ecr-secret
