@@ -51,3 +51,18 @@ This web application displays lists of board games and their reviews. While anyo
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
 5. You can also sign-up as a new user and customize your role to play with the application! 😊
+
+
+
+CI/CD Pipeline Implementation 
+Prometheus Dashboard
+<img width="1357" height="668" alt="image" src="https://github.com/user-attachments/assets/c52276fd-fd21-4748-af34-ba00c9227df4" />
+
+Grafana Dashboard for k8s Monitoring
+<img width="1344" height="676" alt="image" src="https://github.com/user-attachments/assets/80a79499-8323-413b-a46c-c70295026afe" />
+
+Grafana Dashboard for Jenkins Monitoring
+<img width="1335" height="677" alt="image" src="https://github.com/user-attachments/assets/5a802e22-0e1d-4db0-8495-a62398d1343b" />
+
+Grafana Dashboard for Node Monitoring
+<img width="1342" height="681" alt="image" src="https://github.com/user-attachments/assets/0eecda45-f107-4c8d-8bcb-6e5232721d7c" />
