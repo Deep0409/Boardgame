@@ -57,7 +57,6 @@ This web application displays lists of board games and their reviews. While anyo
 **CI/CD Pipeline Implementation **
 
 **Prometheus Dashboard**
-<img width="1357" height="668" alt="image" src="https://github.com/user-attachments/assets/c52276fd-fd21-4748-af34-ba00c9227df4" />
 
 **Grafana Dashboard for k8s Monitoring**
 <img width="1344" height="676" alt="image" src="https://github.com/user-attachments/assets/80a79499-8323-413b-a46c-c70295026afe" />
